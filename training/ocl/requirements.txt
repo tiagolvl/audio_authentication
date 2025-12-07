@@ -1,0 +1,23 @@
+# Data Processing
+pandas
+numpy
+librosa
+
+# Audio Backend (Critical for Windows)
+soundfile
+
+# Optimization & Progress
+optuna
+tqdm
+
+# Deep Learning Framework
+# Note: Installing these via this file usually yields the CPU version on Windows.
+# See the "Setup Instruction" below for the correct GPU command.
+torch
+torchaudio
+torchvision
+
+scikit-learn
+matplotlib
+seaborn
+pyloudnorm
